@@ -1,5 +1,5 @@
 # hello-world
-Hoang learn to code
+Hoang learn to chich
 
 Dep trai co gi sai
 
