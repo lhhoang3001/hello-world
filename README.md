@@ -1,5 +1,5 @@
 # hello-world
-Hoang learn to chich
+Hoang 
 
 Dep trai co gi sai
 
